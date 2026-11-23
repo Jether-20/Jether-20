@@ -15,17 +15,45 @@ My work combines software development and quality assurance. From building appli
 - **Problem Solving** — Understand how a process works, identify where it fails, and explore how software can improve it.
 - **Continuous Improvement** — Debug issues, optimize existing features, and apply testing findings to improve software reliability.
 
-## 🛠️ Tech Stack
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS
+<h2>💻 Tech Stack & QA Skills</h2>
 
-**Backend:** Node.js · Prisma · API Routes
+<h3>Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-**Database:** PostgreSQL · MySQL
+<h3>Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Routes-555555?style=for-the-badge" />
+</p>
 
-**Development Tools:** Git · GitHub · VS Code
+<h3>Database</h3>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-**Quality Assurance:** Manual Testing · Functional Testing · Regression Testing · Bug Reporting
+<h3>Development Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<h3>Quality Assurance</h3>
+<p>
+  <img src="https://img.shields.io/badge/Manual_Testing-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Functional_Testing-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Regression_Testing-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug_Reporting-E11D48?style=for-the-badge" />
+</p>
+
 
 ## 🚀 What I'm Working On
 
